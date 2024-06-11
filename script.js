@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     yesButton.addEventListener('click', () => {
-        message.textContent = 'Thank you so much!';
+        message.textContent = 'Thank you so much! 😊💞🐒';
         message.style.opacity = 1;
         noButton.disabled = true;
 
